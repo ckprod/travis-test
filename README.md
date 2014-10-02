@@ -1,8 +1,8 @@
 travis-test
 ===========
 
-Testing travis with c code.
+Just a simple project to test travis with some c code file.
 
 # Build Status
 
-[![Build Status](https://travis-ci.org/irhc/TravisTest.png?branch=master)](https://travis-ci.org/irhc/travis-test)
+[![Build Status](https://travis-ci.org/irhc/travis-test.svg?branch=master)](https://travis-ci.org/irhc/travis-test)
